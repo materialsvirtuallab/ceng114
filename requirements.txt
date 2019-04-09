@@ -1,6 +1,10 @@
 numpy==1.16.2
 scipy==1.2.0
 pandas==0.24.2
+=======
+scipy==1.2.1
+pandas==0.24.2
+>>>>>>> 0bac7c4da31542ef1839100a07ca2f15e9b0d58c
 seaborn==0.9.0
 #scikit-learn==0.20.2
 #statsmodels==0.9.0
